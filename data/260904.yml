@@ -1,11 +1,13 @@
 about:
-  description: Terminal UI for Proxmox VE
+  description:
+  |
+    Terminal UI for Proxmox VE
   license: MIT
   homepage: https://pvetui.org
   head: 50be5bd
   archived: false
   latestVersion: v1.4.3
-  collectedAt: 2026-09-04T04:33:02Z
+  collectedAt: 2026-09-04T19:35:20Z
 timeline:
   created: 2025-05-03
   lastCommit: 2026-07-16
@@ -16,7 +18,7 @@ popularity:
   fork: 21
   release: 46
   contributor: 6
-  pullRequest: 42
+  pullRequest: 133
   issue: 26
 language:
   Go: 1925878
@@ -28,7 +30,7 @@ language:
   Python: 13905
   Nix: 1870
   Dockerfile: 1553
-totalLine: 2768305
+totalBytes: 2768305
 recent:
   last30d:
     since: 2026-08-05
@@ -38,6 +40,14 @@ recent:
     closedIssue: 0
     openIssue: 4
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 0
+    openPR: 11
+    closedIssue: 0
+    openIssue: 4
+    commit: 7
   last90d:
     since: 2026-06-06
     release: 3
@@ -62,3 +72,21 @@ recent:
     closedIssue: 15
     openIssue: 5
     commit: 516
+  last720d:
+    since: 2024-09-14
+    release: 46
+    mergedPR: 91
+    openPR: 11
+    closedIssue: 21
+    openIssue: 5
+    commit: 1250
+total:
+  release: 46
+  mergedPR: 91
+  openPR: 11
+  closedIssue: 21
+  openIssue: 5
+  commit: 1250
+---
+---
+
