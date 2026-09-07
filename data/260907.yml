@@ -5,7 +5,7 @@ about:
   head: 50be5bd
   archived: false
   latestVersion: "v1.4.3"
-  collectedAt: 2026-09-07T06:04:44Z
+  collectedAt: 2026-09-07T18:21:49Z
 timeline:
   created: 2025-05-03
   lastCommit: 2026-07-16
@@ -16,7 +16,7 @@ popularity:
   fork: 21
   release: 46
   contributor: 6
-  pullRequest: 133
+  pullRequest: 136
   issue: 26
 language:
   Go: 1925878
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 7
+    openPR: 8
     closedIssue: 0
     openIssue: 4
     commit: 0
@@ -42,52 +42,52 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 0
-    openPR: 11
+    openPR: 12
     closedIssue: 0
     openIssue: 4
-    commit: 0
+    commit: 4
   last90d:
     since: 2026-06-09
     release: 2
     mergedPR: 6
-    openPR: 11
+    openPR: 12
     closedIssue: 0
     openIssue: 4
-    commit: 0
+    commit: 18
   last180d:
     since: 2026-03-11
     release: 10
     mergedPR: 24
-    openPR: 11
+    openPR: 12
     closedIssue: 3
     openIssue: 5
-    commit: 0
+    commit: 109
   last360d:
     since: 2025-09-12
     release: 26
     mergedPR: 69
-    openPR: 11
+    openPR: 12
     closedIssue: 15
     openIssue: 5
-    commit: 0
+    commit: 511
   last720d:
     since: 2024-09-17
     release: 46
     mergedPR: 91
-    openPR: 11
+    openPR: 12
     closedIssue: 21
     openIssue: 5
     commit: 1250
 total:
   release: 46
   mergedPR: 91
-  openPR: 11
+  openPR: 12
   closedIssue: 21
   openIssue: 5
   commit: 1250
 ---
 path: /home/runner/.x-repo/github.com/devnullvoid/pvetui
-collectedAt: 2026-09-07T06:04:53Z
+collectedAt: 2026-09-07T18:21:56Z
 loc:
   Go:
     code: 52269
@@ -168,7 +168,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:54+00:00
+  collectedAt: 2026-09-07T18:21:57+00:00
   platform:
     darwin/arm64:
       name:  pvetui_1.4.3_darwin_arm64.tar.gz
