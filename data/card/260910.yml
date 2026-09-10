@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.3"
   latestRelease: "v1.4.3"
   latestPrerelease: "v0.8.0-rc1"
-  collectedAt: 2026-09-10T06:21:41Z
+  collectedAt: 2026-09-10T18:15:18Z
 timeline:
   created: 2025-05-03
   lastCommit: 2026-07-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-16
   lastPrerelease: 2025-07-05
 popularity:
-  star: 720
+  star: 721
   watcher: 4
   fork: 21
   release: 46
@@ -91,7 +91,7 @@ total:
   commit: 1250
 ---
 path: /home/runner/.x-repo/github.com/devnullvoid/pvetui
-collectedAt: 2026-09-10T06:21:49Z
+collectedAt: 2026-09-10T18:15:48Z
 loc:
   Go:
     code: 52269
