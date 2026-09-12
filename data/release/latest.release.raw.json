@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17093247,
       "digest": "sha256:d041f94a19d6894641cd148d587a1f5993ebce08e67c3c061868492dec7ee401",
-      "download_count": 231,
+      "download_count": 235,
       "created_at": "2026-07-16T13:14:39Z",
       "updated_at": "2026-07-16T13:14:40Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.3/pvetui_1.4.3_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17940787,
       "digest": "sha256:5f0673d7de713991d36870ff569ca2c43fffa37230002e9fcd8a1960e73c34e2",
-      "download_count": 459,
+      "download_count": 464,
       "created_at": "2026-07-16T13:14:37Z",
       "updated_at": "2026-07-16T13:14:38Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.3/pvetui_1.4.3_linux_amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 17686241,
       "digest": "sha256:256597b9a41e8621c1e33a8f2a958e5fe8c2ba64374df06e67e6739bc2390790",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-07-16T13:14:36Z",
       "updated_at": "2026-07-16T13:14:37Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.3/pvetui_1.4.3_windows_386.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 18423473,
       "digest": "sha256:55dc7e0fb35af72ec26f409804cbc0a7b325f0451162244fdeca7943fce7b401",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-07-16T13:14:37Z",
       "updated_at": "2026-07-16T13:14:38Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.3/pvetui_1.4.3_windows_amd64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 16406034,
       "digest": "sha256:9a09f8941f006e8fa7fd3446a7d1a34e4e7128fe7663020177cb47decae675f4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-07-16T13:14:36Z",
       "updated_at": "2026-07-16T13:14:37Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.3/pvetui_1.4.3_windows_arm64.zip"
