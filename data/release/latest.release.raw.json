@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2014,
       "digest": "sha256:ccb6b49bcdcc834e6aee29a36f118572e6208d5820d76f9677f3a0aa1780284b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-03T08:30:58Z",
       "updated_at": "2026-10-03T08:30:58Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/checksums_1.4.4.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 119,
       "digest": "sha256:88c33384536c60c64474f787708ef73077f7e9046d773219d4a8da895350e069",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-03T08:30:58Z",
       "updated_at": "2026-10-03T08:30:58Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/checksums_1.4.4.txt.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18460794,
       "digest": "sha256:3c20af987d639596116da7d2c5c6c6ccec673975a0747824862aaab49f2bc8f5",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-03T08:30:49Z",
       "updated_at": "2026-10-03T08:30:50Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17157253,
       "digest": "sha256:e7475717f6657fc6a1fe03b377ab7a1b56f0400da491a97df6993d8dd3517838",
-      "download_count": 114,
+      "download_count": 119,
       "created_at": "2026-10-03T08:30:49Z",
       "updated_at": "2026-10-03T08:30:51Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18014954,
       "digest": "sha256:93ab26fb5e9ed2c78d35c2e898a8511284e79bbd1614b9c8e7e52d807f037117",
-      "download_count": 148,
+      "download_count": 157,
       "created_at": "2026-10-03T08:30:49Z",
       "updated_at": "2026-10-03T08:30:50Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_linux_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 33935088,
       "digest": "sha256:b71c013dc91d5eb428fe3cc6c9a1cf4c6dd1df050d5f8bbdac37f3c675f568b8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-03T08:30:53Z",
       "updated_at": "2026-10-03T08:30:54Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_linux_armv6.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6504951,
       "digest": "sha256:08e41536f1185d8900de20e74d7c2ca10e92ee6136d8fc1640c4dce816f3d022",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-10-03T08:30:52Z",
       "updated_at": "2026-10-03T08:30:53Z",
       "browser_download_url": "https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_source.tar.gz"
