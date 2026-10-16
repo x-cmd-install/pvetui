@@ -38,7 +38,7 @@ Total: **75,671** lines of code across **353** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 742 · **Forks**: 23 · **Open issues**: 30 · **Contributors**: 7
+- **Stars**: 743 · **Forks**: 23 · **Open issues**: 30 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **75,671** lines of code across **353** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 1 | 1 | 1 | 3 | 9 |
-| last60d | 2026-08-16 | 1 | 4 | 1 | 5 | 3 | 13 |
-| 90d | 2026-07-17 | 1 | 8 | 1 | 5 | 3 | 17 |
-| last180d | 2026-04-18 | 7 | 26 | 1 | 6 | 4 | 90 |
-| 360d | 2025-10-20 | 26 | 73 | 1 | 20 | 4 | 512 |
-| last720d | 2024-10-25 | 47 | 99 | 1 | 26 | 4 | 1276 |
+| 30d | 2026-09-16 | 1 | 1 | 1 | 1 | 3 | 9 |
+| last60d | 2026-08-17 | 1 | 4 | 1 | 5 | 3 | 13 |
+| 90d | 2026-07-18 | 1 | 8 | 1 | 5 | 3 | 17 |
+| last180d | 2026-04-19 | 7 | 26 | 1 | 6 | 4 | 90 |
+| 360d | 2025-10-21 | 26 | 73 | 1 | 20 | 4 | 512 |
+| last720d | 2024-10-26 | 47 | 99 | 1 | 26 | 4 | 1276 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:59:02Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:45:31Z._
