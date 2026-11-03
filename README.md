@@ -33,27 +33,27 @@ Total: **75,671** lines of code across **353** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.4` (2026-10-03)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-11-03
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 763 · **Forks**: 23 · **Open issues**: 32 · **Contributors**: 7
+- **Stars**: 764 · **Forks**: 24 · **Open issues**: 32 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 102 · **Open PRs**: 1 · **Closed issues**: 27 · **Open issues**: 5 · **Commits**: 1276
+- **Releases**: 47 · **Merged PRs**: 104 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 4 · **Commits**: 1277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 4 | 1 | 1 | 4 | 0 |
-| last60d | 2026-09-03 | 1 | 6 | 1 | 2 | 4 | 10 |
-| 90d | 2026-08-04 | 1 | 9 | 1 | 6 | 4 | 15 |
-| last180d | 2026-05-06 | 6 | 27 | 1 | 7 | 5 | 72 |
-| 360d | 2025-11-07 | 24 | 74 | 1 | 19 | 5 | 466 |
-| last720d | 2024-11-12 | 47 | 102 | 1 | 27 | 5 | 1276 |
+| 30d | 2026-10-04 | 0 | 6 | 0 | 2 | 3 | 1 |
+| last60d | 2026-09-04 | 1 | 8 | 0 | 3 | 3 | 11 |
+| 90d | 2026-08-05 | 1 | 11 | 0 | 7 | 3 | 16 |
+| last180d | 2026-05-07 | 6 | 29 | 0 | 8 | 4 | 73 |
+| 360d | 2025-11-08 | 24 | 76 | 0 | 20 | 4 | 467 |
+| last720d | 2024-11-13 | 47 | 104 | 0 | 28 | 4 | 1277 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:32:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:10:31Z._
