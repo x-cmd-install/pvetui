@@ -14,11 +14,11 @@ x install pvetui
 
 ## Code insight
 
-Total: **75,671** lines of code across **353** files in the top 5 languages.
+Total: **75,831** lines of code across **354** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 53,709 | 6,102 | 10,525 | 235 |
+| Go | 53,869 | 6,104 | 10,531 | 236 |
 | JavaScript | 13,549 | 3,048 | 2,549 | 59 |
 | Svg | 2,363 | 24 | 25 | 24 |
 | Sh | 1,986 | 244 | 427 | 16 |
@@ -33,27 +33,27 @@ Total: **75,671** lines of code across **353** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.4` (2026-10-03)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-08
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 766 · **Forks**: 24 · **Open issues**: 33 · **Contributors**: 7
+- **Stars**: 766 · **Forks**: 24 · **Open issues**: 34 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 104 · **Open PRs**: 1 · **Closed issues**: 28 · **Open issues**: 5 · **Commits**: 1277
+- **Releases**: 47 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 4 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 6 | 1 | 2 | 4 | 1 |
-| last60d | 2026-09-08 | 1 | 7 | 1 | 3 | 4 | 11 |
-| 90d | 2026-08-09 | 1 | 11 | 1 | 7 | 4 | 16 |
-| last180d | 2026-05-11 | 5 | 26 | 1 | 7 | 5 | 73 |
-| 360d | 2025-11-12 | 24 | 74 | 1 | 20 | 5 | 467 |
-| last720d | 2024-11-17 | 47 | 104 | 1 | 28 | 5 | 1277 |
+| 30d | 2026-10-09 | 0 | 8 | 0 | 4 | 3 | 3 |
+| last60d | 2026-09-09 | 1 | 9 | 0 | 5 | 3 | 12 |
+| 90d | 2026-08-10 | 1 | 12 | 0 | 9 | 3 | 16 |
+| last180d | 2026-05-12 | 5 | 28 | 0 | 9 | 4 | 68 |
+| 360d | 2025-11-13 | 23 | 76 | 0 | 22 | 4 | 458 |
+| last720d | 2024-11-18 | 47 | 106 | 0 | 30 | 4 | 1279 |
 
 ## Release assets
 
@@ -83,6 +83,16 @@ Total: **75,671** lines of code across **353** files in the top 5 languages.
 | [pvetui_1.4.4_windows_amd64.zip](https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_windows_amd64.zip) | 17.6 MiB | `native/win/x64` |
 | [pvetui_1.4.4_windows_arm64.zip](https://github.com/devnullvoid/pvetui/releases/download/v1.4.4/pvetui_1.4.4_windows_arm64.zip) | 15.7 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/pvetui). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.4.4` | ✅ latest |
+| Nix unstable | `1.4.4` | ✅ latest |
+| openSUSE Tumbleweed | `1.4.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pvetui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +102,4 @@ Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:15:01Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:16:48Z._
