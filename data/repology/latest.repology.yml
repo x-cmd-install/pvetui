@@ -1,9 +1,32 @@
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: pvetui
+  binnames:
+    - pvetui
+    - pvetui-debuginfo
+    - pvetui-debugsource
+  visiblename: pvetui
+  version: 1.4.3
+  origversion: 1.4.3-1.1
+  status: outdated
+  summary: Terminal UI for Proxmox VE
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: pvetui
+  visiblename: pvetui
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal UI for Proxmox VE
 - repo: aur
   srcname: pvetui
   binname: pvetui
   visiblename: pvetui
-  version: 1.4.4
-  origversion: 1.4.4-1
+  version: 1.4.5
+  origversion: 1.4.5-1
   status: newest
   summary: A terminal user interface (TUI) for Proxmox VE
   maintainers:
@@ -14,8 +37,8 @@
   srcname: pvetui-bin
   binname: pvetui-bin
   visiblename: pvetui-bin
-  version: 1.4.4
-  origversion: 1.4.4-1
+  version: 1.4.5
+  origversion: 1.4.5-1
   status: newest
   summary: A terminal user interface (TUI) for Proxmox VE
   maintainers:
@@ -37,16 +60,9 @@
 - repo: homebrew
   srcname: pvetui
   visiblename: pvetui
-  version: 1.4.4
+  version: 1.4.5
   origversion: null
   status: newest
-  summary: Terminal UI for Proxmox VE
-- repo: homebrew
-  srcname: pvetui
-  visiblename: pvetui
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Terminal UI for Proxmox VE
 - repo: nix_stable_26_05
   srcname: pvetui
@@ -64,25 +80,9 @@
   visiblename: pvetui
   version: 1.4.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal UI for Proxmox Virtual Environment
   maintainers:
     - prinn.dev@pm.me
   licenses:
     - MIT
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: pvetui
-  binnames:
-    - pvetui
-    - pvetui-debuginfo
-    - pvetui-debugsource
-  visiblename: pvetui
-  version: 1.4.3
-  origversion: 1.4.3-1.1
-  status: outdated
-  summary: Terminal UI for Proxmox VE
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
