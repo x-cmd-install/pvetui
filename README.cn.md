@@ -48,12 +48,12 @@ x install pvetui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 7 | 0 | 4 | 3 | 0 |
-| last60d | 2026-09-14 | 2 | 8 | 0 | 5 | 3 | 0 |
-| 90d | 2026-08-15 | 2 | 11 | 0 | 9 | 3 | 0 |
-| last180d | 2026-05-17 | 6 | 28 | 0 | 9 | 4 | 0 |
-| 360d | 2025-11-18 | 23 | 74 | 0 | 22 | 4 | 0 |
-| last720d | 2024-11-23 | 48 | 106 | 0 | 30 | 4 | 1292 |
+| 30d | 2026-10-15 | 1 | 6 | 0 | 3 | 1 | 14 |
+| last60d | 2026-09-15 | 2 | 8 | 0 | 5 | 3 | 24 |
+| 90d | 2026-08-16 | 2 | 11 | 0 | 9 | 3 | 28 |
+| last180d | 2026-05-18 | 6 | 25 | 0 | 9 | 4 | 80 |
+| 360d | 2025-11-19 | 23 | 74 | 0 | 22 | 4 | 470 |
+| last720d | 2024-11-24 | 48 | 106 | 0 | 30 | 4 | 1292 |
 
 ## Release 资产
 
@@ -85,12 +85,12 @@ x install pvetui
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/pvetui) 上共有 **8** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/pvetui) 上共有 **8** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.4.4` | ✅ latest |
-| Nix unstable | `1.4.4` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.4.4` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.4.3` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -102,4 +102,4 @@ pvetui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T08:26:44Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T08:13:20Z._
