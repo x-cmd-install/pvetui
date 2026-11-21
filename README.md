@@ -48,12 +48,12 @@ Total: **76,941** lines of code across **363** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 6 | 0 | 3 | 0 | 14 |
-| last60d | 2026-09-21 | 2 | 10 | 0 | 4 | 3 | 24 |
-| 90d | 2026-08-22 | 2 | 13 | 0 | 9 | 3 | 28 |
-| last180d | 2026-05-24 | 5 | 27 | 0 | 9 | 3 | 64 |
-| 360d | 2025-11-25 | 22 | 72 | 0 | 20 | 4 | 445 |
-| last720d | 2024-11-30 | 48 | 108 | 0 | 30 | 4 | 1292 |
+| 30d | 2026-10-22 | 1 | 6 | 0 | 3 | 0 | 0 |
+| last60d | 2026-09-22 | 2 | 10 | 0 | 4 | 3 | 0 |
+| 90d | 2026-08-23 | 2 | 13 | 0 | 9 | 3 | 0 |
+| last180d | 2026-05-25 | 5 | 24 | 0 | 9 | 3 | 0 |
+| 360d | 2025-11-26 | 21 | 72 | 0 | 20 | 4 | 0 |
+| last720d | 2024-12-01 | 48 | 108 | 0 | 30 | 4 | 1292 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:24:29Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:19:56Z._
