@@ -48,12 +48,12 @@ Total: **76,941** lines of code across **363** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 6 | 1 | 2 | 0 | 10 |
-| last60d | 2026-09-25 | 2 | 10 | 1 | 4 | 3 | 24 |
-| 90d | 2026-08-26 | 2 | 12 | 1 | 9 | 3 | 26 |
-| last180d | 2026-05-28 | 5 | 24 | 1 | 9 | 3 | 59 |
-| 360d | 2025-11-29 | 21 | 72 | 1 | 19 | 4 | 421 |
-| last720d | 2024-12-04 | 48 | 108 | 1 | 30 | 4 | 1292 |
+| 30d | 2026-10-26 | 1 | 5 | 1 | 2 | 0 | 10 |
+| last60d | 2026-09-26 | 2 | 10 | 1 | 4 | 3 | 24 |
+| 90d | 2026-08-27 | 2 | 12 | 1 | 9 | 3 | 26 |
+| last180d | 2026-05-29 | 5 | 24 | 1 | 9 | 3 | 59 |
+| 360d | 2025-11-30 | 20 | 72 | 1 | 19 | 4 | 421 |
+| last720d | 2024-12-05 | 48 | 108 | 1 | 30 | 4 | 1292 |
 
 ## Release assets
 
@@ -83,16 +83,6 @@ Total: **76,941** lines of code across **363** files in the top 5 languages.
 | [pvetui_1.4.5_windows_amd64.zip](https://github.com/devnullvoid/pvetui/releases/download/v1.4.5/pvetui_1.4.5_windows_amd64.zip) | 17.7 MiB | `native/win/x64` |
 | [pvetui_1.4.5_windows_arm64.zip](https://github.com/devnullvoid/pvetui/releases/download/v1.4.5/pvetui_1.4.5_windows_arm64.zip) | 15.7 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/pvetui). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.4.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.4.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pvetui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +92,4 @@ Install metadata for pvetui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:34:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:03:35Z._
